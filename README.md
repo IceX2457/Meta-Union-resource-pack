@@ -5,7 +5,7 @@ Extra info:
 All Diamond items that can be upgraded to netherite will keep the exact same skin when upgraded (with an exception to some items (currently only the 3d diamond sword which will turn into a 3d netherite sword)).
 Please report all found bugs to IceX2457 or on this github.
 
-Some of these items are personally requested and added. The explanation on how to get your item added is right beneath this, if you don't need it you can skip over and immidiatly go to the tables beneath the text.\
+Some of these items are personally requested and added. The explanation on how to get your item added is right beneath this, if you don't need it you can skip over and immidiatly go to the link beneath the text which will lead you to all the items that are added.\
 Now how can you yourself get such a special item with special visuals? There are a few steps to get it. Do all these steps in this forum to make sure I see the requests!
 
 Step 1: design a lore about the item, how you got it, why you got it and more, you have to make sure it's good lore and actually fits you (for example: saying "it fell out of the air into my hands" will not be enough) I also highly suggest making your own character lore first as this will make it easier to make your personal item lore. (Has to be approved by me).\
