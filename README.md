@@ -18,5 +18,5 @@ Once you've done all these steps and it's approved, it'll get added.
 
 Make sure to choose well because we don't want to change the visuals/have a request from the same person every day.
 
-All items added can be viewed here: https://docs.google.com/spreadsheets/d/1A-0Hgd3P605-LppGctaS4JuaFfx9hfl9amfuaib2Hu4
+All items added can be viewed here: https://docs.google.com/spreadsheets/d/1A-0Hgd3P605-LppGctaS4JuaFfx9hfl9amfuaib2Hu4   \
 Take note that this spreadsheet is only updated a few times and not everything will be in there as soon as it has been added to the pack itself!
