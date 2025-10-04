@@ -2,7 +2,7 @@ Custom item visuals
 
 Extra info:
 
-All Diamond items that can be upgraded to netherite will keep the exact same skin when upgraded (with an exception to some items (currently only the 3d diamond sword and diamond knife which will turn into a 3d netherite sword and a netherite knife)).
+All Diamond items that can be upgraded to netherite will keep the exact same skin when upgraded (with an exception to some items (as example: the 3d diamond sword and diamond knife which will turn into a 3d netherite sword and a netherite knife)).
 Please report all found bugs to IceX2457 or on this github.
 
 Some of these items are personally requested and added. The explanation on how to get your item added is right beneath this, if you don't need it you can skip over and immidiatly go to the link beneath the text which will lead you to all the items that are added.\
